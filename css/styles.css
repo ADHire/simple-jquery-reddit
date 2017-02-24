@@ -1,0 +1,28 @@
+body {
+  background-color: grey;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.infoBox {
+  vertical-align: top;
+  width: 30%;
+  height: 300px;
+  display: inline-block;
+  text-align: center;
+  background-color: pink;
+  border: 2px solid grey;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h3, p {
+  font-family: monospace;
+}
